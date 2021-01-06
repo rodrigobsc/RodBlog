@@ -1,5 +1,5 @@
 ---
-title: "The Final History"
+title: "A história final"
 date: 2020-11-25
 ---
 
